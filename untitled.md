@@ -7,8 +7,8 @@ description: >-
 
 # 2. Re-calculate and update price of product has cloned gift variants
 
-{% hint style="info" %}
- _**We recommend you to let us to complete install for you** because it will help you to avoid hassle of doing it yourself \(And It's_  _absolutely **FREE** for you\)._
+{% hint style="warning" %}
+_**We recommend you to let us to complete install for you** because it will help you to avoid hassle of doing it yourself \(And It's_  _absolutely **FREE** for you\)._
 
 _if you need free installation please create an account with permission \(**app, theme and product**\) for us.  
 For how to create a staff account please refer_ [_this post_](http://docs.shopify.com/manual/settings/account/staff-members) _.  
