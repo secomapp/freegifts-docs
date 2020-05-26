@@ -5,7 +5,7 @@ description: >-
   can do it manually following this instruction.
 ---
 
-# Showing Gifts info on Catalog page
+# 6. Showing Gifts info on Catalog page
 
 
 
