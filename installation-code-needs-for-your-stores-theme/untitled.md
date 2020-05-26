@@ -23,7 +23,7 @@ Thông thường các file sau sẽ chứa các thông số về giá mà chúng
 
 Ví dụ khi mở file template/collection.liquid bạn có thể sẽ tìm thấy đoạn code như sau:
 
-```text
+```elixir
 <div id="coll-product-list" class="grid-uniform product-list">
 {% for product in collection.products %}
 {% assign grid_item_width = 'large--col-3 medium--col-4 small--col-6' %}
@@ -35,7 +35,7 @@ Ví dụ khi mở file template/collection.liquid bạn có thể sẽ tìm th�
 
 Bạn có thể nhìn thấy dòng code `{% include 'snippet-product-item' %}` là tệp tin sẽ chứa phần hiển thị các sản phẩm trong 1 collection. Hãy sửa đoạn code thành như sau
 
-```text
+```elixir
 <div id="coll-product-list" class="grid-uniform product-list">
 {% for product in collection.products %}
 {% assign grid_item_width = 'large--col-3 medium--col-4 small--col-6' %}
@@ -52,7 +52,7 @@ Lưu ý là tuỳ trường hợp khai báo đối tượng của vòng lặp fo
 
 Tiếp theo, bạn hãy tìm tới tập tin `snippets/snippet-product-item.liquid` đó và bạn sẽ thấy các đoạn code chưa thông tin về giá của sản phẩm. Nó có thể như hình dưới đây
 
-```text
+```elixir
 <div class="coll-prod-meta {% unless settings.show_buy_medallion %}no-medallion{% endunless %}">
 <h5><a href="{{ product.url | within: collection }}">{{ product.title }}</a></h5>
 {% if product.compare_at_price > product.price %}
@@ -80,7 +80,7 @@ Bạn hãy thực hiện thay đổi các đoạn code chưa thông tin giá s�
 
 Sau khi thay đổi lại, bạn sẽ có đoạn code mới như sau
 
-```text
+```elixir
 <div class="coll-prod-meta {% unless settings.show_buy_medallion %}no-medallion{% endunless %}">
 <h5><a href="{{ product.url | within: collection }}">{{ product.title }}</a></h5>
 {% if sca_compare_at_price > sca_price %}
