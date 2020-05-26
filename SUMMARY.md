@@ -13,4 +13,5 @@
 * [2. Re-calculate and update price of product has cloned gift variants](installation-code-needs-for-your-stores-theme/untitled.md)
 * [3. Disable change Gift quantity in Cart page](installation-code-needs-for-your-stores-theme/3.-disable-change-gift-quantity-in-cart-page.md)
 * [4. Hide Gifts variants for Themes which use Shopify's ajax API functions](4.-hide-gifts-variants-for-themes-which-use-shopifys-ajax-api-functions.md)
+* [5. Showing Gifts info On Product Page](5.-showing-gifts-info-on-product-page.md)
 
