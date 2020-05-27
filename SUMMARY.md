@@ -16,3 +16,8 @@
 * [5. Showing Gifts info on Product page](5.-showing-gifts-info-on-product-page.md)
 * [6. Showing Gifts info on Catalog page](showing-gifts-info-on-catalog-page.md)
 
+## User Guide
+
+* [Untitled](user-guide/untitled.md)
+* [How to use Gifts On Catalog offer](how-to-use-gifts-on-catalog-offer.md)
+
