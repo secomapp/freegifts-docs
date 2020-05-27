@@ -18,6 +18,5 @@
 
 ## User Guide
 
-* [Untitled](user-guide/untitled.md)
 * [How to use Gifts On Catalog offer](how-to-use-gifts-on-catalog-offer.md)
 
