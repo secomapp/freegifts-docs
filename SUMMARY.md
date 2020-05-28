@@ -20,4 +20,5 @@
 
 * [How to use Gifts On Catalog offer](how-to-use-gifts-on-catalog-offer.md)
 * [How to use Gifts on Cart offer](how-to-use-gifts-on-cart-offer.md)
+* [Advance features](advance-features.md)
 
