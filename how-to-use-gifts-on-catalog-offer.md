@@ -15,3 +15,7 @@ Gifts on Catalog are used if you want reward gifts to follow specific products. 
 
 ![](https://secomapp.zendesk.com/hc/en-us/article_attachments/201041169/giftoncat3.png)
 
+
+
+![](.gitbook/assets/new-catalog-offer.gif)
+
