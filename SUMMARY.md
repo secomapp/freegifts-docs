@@ -24,5 +24,5 @@
 
 ## FAQs
 
-* [How To Show Banner Promotion?](faqs/how-to-show-banner-promotion.md)
+* [How To Show Promotion info slider?](faqs/how-to-show-banner-promotion.md)
 
