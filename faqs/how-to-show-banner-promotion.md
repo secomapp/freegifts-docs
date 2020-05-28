@@ -1,6 +1,6 @@
 # How To Show Banner Promotion?
 
-1. You need to enable Banner Promotion on Setting section
+1. You need to enable Banner Promotion on Setting section \(enabled as default\)
 
 2. The banner promotion will show if the cart has not reach the condition. If the cart reaches the condition and customer get the gifts, it will be not showed anymore.
 
