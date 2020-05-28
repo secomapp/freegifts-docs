@@ -8,7 +8,7 @@
 
 For start to create new Cart offer rule, please follow those steps:
 
-![](.gitbook/assets/new-cart-offer.gif)
+![](../.gitbook/assets/new-cart-offer.gif)
 
 **In the General section**, you will need to enter **Name**, **Start date and End Date**, **Promotion message**, and **URL of promotion banner**, **Maximum number of gifts,  Discount percentage of Gift Items, Priority** and **Stop lower priority rule**.  
 **The promotion message and promotion banner** allow shop owner to advertise and  make customer to buy more. For example, buy &gt;200 to get a pen, then Enter a message:” Please buy over 200 USD to get a free gift”. Then if customer buys smaller than 200 USD, then he goes to cart page, the message will be shown so customer can see and decide to buy more to reach the condition.  

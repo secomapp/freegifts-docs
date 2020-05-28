@@ -1,6 +1,6 @@
 # What Is "Use Gift\(S\) in condition of other gift on Cart offer"?
 
-![](.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 This is an option in the condition section of Gift on cart rule. The option is only used in case you use multi rules.
 
