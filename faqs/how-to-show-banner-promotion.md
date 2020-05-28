@@ -7,7 +7,7 @@ description: >-
 
 # How To Show Promotion info slider?
 
-![You can enter the image&apos;s URL or your own html code for showing Promotion info.](../.gitbook/assets/image%20%289%29.png)
+![You can enter the image&apos;s URL or your own html code for showing Promotion info.](../.gitbook/assets/image%20%2810%29.png)
 
 1. You need to enable Banner Promotion on Setting section \(enabled as default\)
 

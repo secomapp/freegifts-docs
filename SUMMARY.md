@@ -26,4 +26,5 @@
 
 * [How To Show Promotion info slider?](faqs/how-to-show-banner-promotion.md)
 * [How to reward customer a gift if he Buy 2 items of the same product?](how-to-reward-customer-a-gift-if-he-buy-2-items-of-the-same-product.md)
+* [What Is "Use Gift\(S\) in condition of other gift on Cart offer"?](what-is-use-gift-s-in-condition-of-other-gift-on-cart-offer.md)
 
