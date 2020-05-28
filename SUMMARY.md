@@ -22,3 +22,7 @@
 * [How to use Gifts on Cart offer](how-to-use-gifts-on-cart-offer.md)
 * [Advance features](advance-features.md)
 
+## FAQs
+
+* [How To Show Banner Promotion?](faqs/how-to-show-banner-promotion.md)
+
