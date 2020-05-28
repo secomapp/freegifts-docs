@@ -25,4 +25,5 @@
 ## FAQs
 
 * [How To Show Promotion info slider?](faqs/how-to-show-banner-promotion.md)
+* [How to reward customer a gift if he Buy 2 items of the same product?](how-to-reward-customer-a-gift-if-he-buy-2-items-of-the-same-product.md)
 
