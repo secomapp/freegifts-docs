@@ -1,7 +1,3 @@
----
-description: 'In this part, we will introduce to you all advanced features'
----
-
 # Features in Setting page
 
 ### 1. Using DraftOder API
