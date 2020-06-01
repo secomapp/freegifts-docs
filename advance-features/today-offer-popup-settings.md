@@ -10,7 +10,7 @@ description: >-
 
 Để bật tính năng này bạn cần vào trang Setting của ứng dụng và kích chọn vào mục "_**Enable**_":
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 Trong phần này cũng cho phép bạn cấu hình nhanh rất nhiều các tuỳ chọn hiển thị của popup này như: mầu sắc, nội dung text hiển thị, vị trí, tích hợp hiển thị nhanh thông tin chi tiết về các sản phẩm \(khi bạn đã cài ứng dụng Quickview miễn phí của chúng tôi\).
 
