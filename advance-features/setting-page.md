@@ -34,17 +34,17 @@ If your offer is not to give a free gift, we will calculate the price of cloned 
 
 ### 5. Motivate customer buy more with a Free gift icon
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 Tính năng này cũng cho phép khách hàng có thể dễ dàng nhận diện sản phẩm cần mua để có thể nhận được sản phẩm gift \(Catalog offers\). Theo mặc định tính năng này đã được bật và sẽ hoạt động trên các trang collection, nếu bạn không nhìn thấy icon hay kiểm tra lại bước cài đặt [6. Showing Gift info on Collection page](../showing-gifts-info-on-catalog-page.md)
 
 ### 6. Hiển thị box quà tặng dưới dạng từng sản phẩm
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 Theo mặc định, các sản phẩm gift sẽ được hiển thị theo variant, khách hàng chỉ cần 1-click để lựa chọn quà tặng mình mong muốn. Tuy nhiên, khi bạn có một danh sách các quà tặng quá dài, bạn có thể sẽ cần đến cách hiển thị hộp quà tặng đó theo từng sản phẩm một. Khách hàng cần lựa chọn các options của sản phẩm đó trước khi thêm vào giỏ hàng. Hãy xem ví dụ minh hoạ dưới đây:
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ### 7. Show properties need to fill of gift product
 
@@ -58,25 +58,25 @@ Trong một vài trường hợp, các sản phẩm gift cần được nhập c
 
 * _**Manual select products:**_ For the Catalog offers, sometime you need select products customers should buy by SKU, product's name, variant's name or even input product/variant's ID manually. In this case, you can enable this feature then the in Catalog offer rule UI will appear new box for you doing those tasks:
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 * _**Ignore selected products**_**:** Đối với store có rất nhiều sản phẩm, đôi khi việc giới hạn một số sản phẩm dù khách hàng có mua cũng không được tính để hưởng quà tặng là rất khó khăn. Tính năng này sẽ giúp bạn chỉ việc lựa chọn danh sách một vài sản phẩm muốn loại trừ thay vì phải lựa chọn hàng trăm/nghìn sản phẩm khác nhau.
 
 ### 9. Tắt bật một số thông tin về sản phẩm gift
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 Mặc định các tính năng này được bật, tuy nhiên tuỳ theo nhu cầu sử dụng, bạn cũng có thể ẩn các mục này đi nếu cần thiết.
 
 ### 10. Auto add gifts to cart
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 Thông thường ứng dụng của chúng tôi sẽ tự động thêm sản phẩm quà tặng mà khách hàng đã thoả mãn các yêu cầu của offers vào giỏ hàng. Tuy nhiên có một vài trường hợp như sản phẩm quà tặng cần nhập thêm các thuộc tính, các offers sử dụng tính năng priority và có trùng lặp nhau về sản phẩm quà tặng... Bạn có thể tắt tính năng này đi trong trang Setting của ứng dụng.
 
 ### 11. One time pick
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 Tính năng này cho phép bạn giới hạn khách hàng chỉ được phép chọn 1 variant trong 1 sản phẩm quà tặng. Khi khách hàng đã chọn quà tặng đó, nếu offer khác cũng thoả mãn và cũng có cùng 1 quà tặng đó thì hộp quà tặng sẽ không hiển thị để khách hàng có thể lựa chọn được thêm một lần nữa.
 
@@ -100,19 +100,19 @@ Thông thường sản phẩm gift sẽ có thông tin SKU/barcode giống hệt
 
 ### 15. Remove duplicated variants
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 Sau khi chiến dịch promotion của bạn hoàn tất, nếu bạn không xoá các offer đi thì theo mặc định các cloned gift vẫn tồn tại bên trong các sản phẩm gốc \(mà bạn đã lựa chọn làm gift\). Việc này có thể xuất hiện một số rủi ro bị hack các sản phẩm gift nếu khách hàng của bạn là một người rất am hiểu về Shopify API. Sau khi bật tính năng này lên, bạn có thể xoá toàn bộ các cloned gift bằng cách de-active các offer của bạn cũng như giữ lại thông tin các offers đó để dễ dàng sử dụng lại cho các chiến dịch promotion sau.
 
 ### 16.  Thay đổi lại nội dung text hiển thị của ứng dụng
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 Các mục này giúp bạn có thể thay đổi nội dung text hiển thị tới khách hàng sao cho phù hợp với ngữ cảnh bạn mong muốn.
 
 ### 17. Thay đổi freegift icon, kích thước hiển thị icon và ảnh của gifts slider box
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 Phần này cho phép bạn có thể tự tải lên hình ảnh icon hiển thị theo ý muốn, cấu hình lại kích thước ảnh cũng như chủ động cấu hình toàn bộ thuộc tính liên quan tới quá trình hiển thị gift slider box. Các tuỳ chọn đó bạn có thể tham khảo thêm về thư viện Owl-Carousel [tại đây](http://www.landmarkmlp.com/js-plugin/owl.carousel/).
 
