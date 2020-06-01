@@ -32,7 +32,15 @@ If your offer is not to give a free gift, we will calculate the price of cloned 
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-### 5. 
+### 5. Motivate customer buy more with a Free gift icon
+
+![](../.gitbook/assets/image%20%2819%29.png)
+
+Tính năng này cũng cho phép khách hàng có thể dễ dàng nhận diện sản phẩm cần mua để có thể nhận được sản phẩm gift \(Catalog offers\). Theo mặc định tính năng này đã được bật và sẽ hoạt động trên các trong collection, nếu bạn không nhìn thấy icon hay kiểm tra lại bước cài đặt "[6. Showing Gift info on Collection page](../showing-gifts-info-on-catalog-page.md)"
+
+
+
+
 
 
 
