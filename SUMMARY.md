@@ -24,10 +24,12 @@
 * [How to use Gifts On Catalog offer](how-to-use-gifts-on-catalog-offer/README.md)
   * [Disable multiple gift feature for Catalog offer](how-to-use-gifts-on-catalog-offer/disable-multiple-gift-feature-for-catalog-offer.md)
   * [Gift item should be the same product customer should buy](how-to-use-gifts-on-catalog-offer/gift-item-should-be-the-same-product-customer-should-buy.md)
+  * [The bundle promotion feature](how-to-use-gifts-on-catalog-offer/the-bundle-promotion-feature.md)
 * [Exporting report for your Promotion campaign](exporting-report-for-your-promotion-campaign.md)
 * [Advance features](advance-features/README.md)
   * [Features in Setting page](advance-features/setting-page.md)
   * [Today Offer popup settings](advance-features/today-offer-popup-settings.md)
+  * [Populating Promotion Codes via a URL](advance-features/populating-promotion-codes-via-a-url.md)
   * [How to let customer input property fields before adding gift to cart.](advance-features/how-to-let-customer-input-property-fields-before-adding-gift-to-cart..md)
 
 ## FAQs
