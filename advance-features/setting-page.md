@@ -50,7 +50,9 @@ Theo mặc định, các sản phẩm gift sẽ được hiển thị theo varia
 
 ![](../.gitbook/assets/image%20%2818%29.png)
 
-Trong một vài trường hợp, các sản phẩm gift cần được nhập các thông tin bổ xung trước khi được thêm vào giỏ hàng, để làm được điều này bạn sẽ cần cấu hình template cho các field cần thêm cũng như lựa chọn sản phẩm gift nào sẽ hiển thị các mục nhập đó. Để thực hiện quá trình này, bạn có thể tìm hiểu thêm trong mục 
+Trong một vài trường hợp, các sản phẩm gift cần được nhập các thông tin bổ xung trước khi được thêm vào giỏ hàng, để làm được điều này bạn sẽ cần cấu hình template cho các field cần thêm cũng như lựa chọn sản phẩm gift nào sẽ hiển thị các mục nhập đó. Để thực hiện quá trình này, bạn có thể tìm hiểu thêm [tại đây](how-to-let-customer-input-property-fields-before-adding-gift-to-cart..md).
+
+8. 
 
 
 
