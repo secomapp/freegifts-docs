@@ -5,7 +5,7 @@ description: >-
   can do it manually following this instruction.
 ---
 
-# 6. Showing Gifts info on Catalog page
+# 6. Showing Gifts info on Collection page
 
 Để tăng khả năng kích thích khách hàng mua sắm, Freegifts hỗ trợ tính năng hiển thị biểu tượng gift trên các sản phẩm được tạo ra bởi _Catalog offer rule_. Để thực hiện bạn cần tìm các tệp tin chứa nội dung hiển thị danh sách các sản phẩm theo collection \(thông thường năm trong thư mục **snippets** của Theme\). Ví dụ như: product-loop.liquid, product-grid-list.liquid, product-related.liquid hoặc thậm trí ngay trong tệp tin templates/collection.liquid
 

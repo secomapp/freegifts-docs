@@ -14,7 +14,7 @@
 * [3. Disable ability to change Gift quantity in Cart page](installation-code-needs-for-your-stores-theme/3.-disable-change-gift-quantity-in-cart-page.md)
 * [4. Hide Gifts variants for Themes which use Shopify's ajax API functions](4.-hide-gifts-variants-for-themes-which-use-shopifys-ajax-api-functions.md)
 * [5. Showing Gifts info on Product page](5.-showing-gifts-info-on-product-page.md)
-* [6. Showing Gifts info on Catalog page](showing-gifts-info-on-catalog-page.md)
+* [6. Showing Gifts info on Collection page](showing-gifts-info-on-catalog-page.md)
 
 ## User Guide
 
