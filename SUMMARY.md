@@ -30,6 +30,7 @@
   * [Features in Setting page](advance-features/setting-page.md)
   * [Today Offer popup settings](advance-features/today-offer-popup-settings.md)
   * [Populating Promotion Codes via a URL](advance-features/populating-promotion-codes-via-a-url.md)
+  * [Narrow Customers could having gift base on their orders history or tags](advance-features/narrow-customers-could-having-gift-base-on-their-orders-history-or-tags.md)
   * [How to let customer input property fields before adding gift to cart.](advance-features/how-to-let-customer-input-property-fields-before-adding-gift-to-cart..md)
 
 ## FAQs
