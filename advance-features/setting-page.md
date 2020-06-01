@@ -34,25 +34,33 @@ If your offer is not to give a free gift, we will calculate the price of cloned 
 
 ### 5. Motivate customer buy more with a Free gift icon
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 Tính năng này cũng cho phép khách hàng có thể dễ dàng nhận diện sản phẩm cần mua để có thể nhận được sản phẩm gift \(Catalog offers\). Theo mặc định tính năng này đã được bật và sẽ hoạt động trên các trang collection, nếu bạn không nhìn thấy icon hay kiểm tra lại bước cài đặt [6. Showing Gift info on Collection page](../showing-gifts-info-on-catalog-page.md)
 
 ### 6. Hiển thị box quà tặng dưới dạng từng sản phẩm
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 Theo mặc định, các sản phẩm gift sẽ được hiển thị theo variant, khách hàng chỉ cần 1-click để lựa chọn quà tặng mình mong muốn. Tuy nhiên, khi bạn có một danh sách các quà tặng quá dài, bạn có thể sẽ cần đến cách hiển thị hộp quà tặng đó theo từng sản phẩm một. Khách hàng cần lựa chọn các options của sản phẩm đó trước khi thêm vào giỏ hàng. Hãy xem ví dụ minh hoạ dưới đây:
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ### 7. Show properties need to fill of gift product
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 Trong một vài trường hợp, các sản phẩm gift cần được nhập các thông tin bổ xung trước khi được thêm vào giỏ hàng, để làm được điều này bạn sẽ cần cấu hình template cho các field cần thêm cũng như lựa chọn sản phẩm gift nào sẽ hiển thị các mục nhập đó. Để thực hiện quá trình này, bạn có thể tìm hiểu thêm [tại đây](how-to-let-customer-input-property-fields-before-adding-gift-to-cart..md).
 
-8. 
+### 8. Showing more advance feature while creating offers
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
+* _**Manual select products:**_ For the Catalog offers, sometime you need select products customers should buy by SKU, product's name, variant's name or even input product/variant's ID manually. In this case, you can enable this feature then the in Catalog offer rule UI will appear new box for you doing those tasks:
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+* _**Ignore selected products**_**:** In
 
 
 
