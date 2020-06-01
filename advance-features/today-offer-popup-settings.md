@@ -1,0 +1,2 @@
+# Today Offer popup settings
+

@@ -1,4 +1,4 @@
-# What Is "Use Gift\(S\) in condition of other gift on Cart offer"?
+# What is "Use gift\(s\) in condition of other gift on Cart offer"?
 
 ![](../.gitbook/assets/image%20%286%29.png)
 

@@ -20,11 +20,12 @@
 
 * [How to use Gifts on Cart offer](how-to-use-gifts-on-cart-offer/README.md)
   * [How to reward customer a gift if he Buy 2 items of the same product?](how-to-use-gifts-on-cart-offer/how-to-reward-customer-a-gift-if-he-buy-2-items-of-the-same-product.md)
-  * [What Is "Use Gift\(S\) in condition of other gift on Cart offer"?](how-to-use-gifts-on-cart-offer/what-is-use-gift-s-in-condition-of-other-gift-on-cart-offer.md)
+  * [What is "Use gift\(s\) in condition of other gift on Cart offer"?](how-to-use-gifts-on-cart-offer/what-is-use-gift-s-in-condition-of-other-gift-on-cart-offer.md)
 * [How to use Gifts On Catalog offer](how-to-use-gifts-on-catalog-offer.md)
 * [Exporting report for your Promotion campaign](exporting-report-for-your-promotion-campaign.md)
 * [Advance features](advance-features/README.md)
   * [Features in Setting page](advance-features/setting-page.md)
+  * [Today Offer popup settings](advance-features/today-offer-popup-settings.md)
   * [How to let customer input property fields before adding gift to cart.](advance-features/how-to-let-customer-input-property-fields-before-adding-gift-to-cart..md)
 
 ## FAQs
