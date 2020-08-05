@@ -1,8 +1,8 @@
 ---
-description: Let Free gifts app BOOT YOUR SALES!
+description: Let Free Gifts app BOOST YOUR SALES!
 ---
 
-# About Freegifts by Secomapp
+# About Free Gifts by Secomapp
 
 ## About Secomapp:
 
@@ -10,9 +10,9 @@ description: Let Free gifts app BOOT YOUR SALES!
 
 Secomapp Team has more than 5 years’ experience in building Shopify Apps with high ranks and impressive ratings. We are attempting to become one of the best companies to provide apps for Shopify users.
 
-We offer a high-skilled technical support team which is responsive from 8h30-18h Monday to Friday \(GMT +7\). We work fast, handle requests quickly and serve you wholeheartedly.
+We offer highly-skilled technical support which is responsive from 8h30-18h00, Monday to Friday \(GMT +7\). We work fast, handle requests quickly and serve you wholeheartedly.
 
-## Freegifts by Secomapp:
+## Free Gifts by Secomapp:
 
 **USED BY 2000+ STORES IN OVER 80 DIFFERENT COUNTRIES**
 
@@ -22,7 +22,7 @@ Your shop will be more vibrant and lively, always on the vibe of the special hol
 
 Customers will prefer surfing your site and staying for a while to discover all surprising deals that you treat them compared with other shops with nothing to give.
 
-**Free Gifts app covers most of the hottest gifts and discounts offers.**
+**Free Gifts app covers most of the hottest gift and discount offers.**
 
 **BOGO**
 
@@ -30,7 +30,7 @@ Buy One – Get One: Very easy but effective promotion rule: When customers buy 
 
 **Offers on Certain products \(Offers on Catalog rule\)**
 
-Customers gain free gifts or any kind of discounts only when they purchase particular products. Example rules are:
+Customers gain free gifts or any kind of discounts only when they purchase particular product\(s\). Example rules are:
 
 * Buy X get Y free
 * Buy X get 40% off of Y
@@ -54,13 +54,13 @@ Customers receive gifts or any kind of discounts based on their shopping cart. C
 
 **Multi offers on cart rule**
 
-You can create multi rules \(multi offers\). For Example: Purchase from 500 USD to 1000 USD get a pen free and purchase from 1000 USD to 2000 USD get a book free.
+You can create multi rules \(multi offers\). For Example: Purchase from 500 USD to 1000 USD to get a pen for free and purchase from 1000 USD to 2000 USD to get a free book.
 
 **Upsell and cross-sell**
 
-You have a chance to draw customer attention to other products on your store. Customers who are buying one product are likely to be persuaded to get other products which are complementary or even of higher value if those ones are displayed as free or discounted items.
+You have a chance to draw customer's attention to other products on your store. Customers who are buying one product are likely to be persuaded to get other products which are complementary or even of higher value if those ones are displayed as free or discounted items.
 
 **Motivate customers by Promotion Message and Banner**
 
-Promotion Message and Banner is displayed on cart page. It allows shop owners to advertise and help customers know exactly how close they are to receive a promotion! This is like a smart strategy to urge them to buy more or it is called up-sell but it doesn’t make customers feel annoyed.
+Promotion Message and Banner is displayed on cart page. It allows shop owners to advertise and help customers know exactly how close they are to receive a promotion! This is like a smart strategy to urge them to buy more or it is called Upselling but it doesn’t make customers feel annoyed.
 

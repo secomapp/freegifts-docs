@@ -1,4 +1,4 @@
-# Freegifts app introduces
+# About Free Gifts app
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
