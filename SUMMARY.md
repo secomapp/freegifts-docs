@@ -4,12 +4,12 @@
 
 ## Before you get started
 
-* [About Free Gifts app](before-you-get-started/freegifts-app-introduces.md)
+* [Introduction](before-you-get-started/freegifts-app-introduces.md)
 * [Important terms](before-you-get-started/basic-terms.md)
 
-## Installation codes needs for your store's theme <a id="installation-code-needs-for-your-stores-theme"></a>
+## Installation codes required for your store's theme <a id="installation-code-needs-for-your-stores-theme"></a>
 
-* [1. Liquid code for hide cloned gift variants](installation-code-needs-for-your-stores-theme/1.-installation-and-add-liquid-code.md)
+* [1. Liquid code to hide cloned gift variants](installation-code-needs-for-your-stores-theme/1.-installation-and-add-liquid-code.md)
 * [2. Re-calculate and update price of product has cloned gift variants](installation-code-needs-for-your-stores-theme/untitled.md)
 * [3. Disable ability to change Gift quantity in Cart page](installation-code-needs-for-your-stores-theme/3.-disable-change-gift-quantity-in-cart-page.md)
 

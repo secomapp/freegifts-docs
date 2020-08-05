@@ -1,4 +1,10 @@
-# About Free Gifts app
+---
+description: >-
+  Say Hello to your Gift Hero! He's here to help you deal with gifts for any
+  levels.
+---
+
+# Introduction
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
