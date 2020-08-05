@@ -36,7 +36,7 @@ If your offer is not to give a free gift, we will calculate the price of cloned 
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-Tính năng này cũng cho phép khách hàng có thể dễ dàng nhận diện sản phẩm cần mua để có thể nhận được sản phẩm gift \(Catalog offers\). Theo mặc định tính năng này đã được bật và sẽ hoạt động trên các trang collection, nếu bạn không nhìn thấy icon hay kiểm tra lại bước cài đặt [6. Showing Gift info on Collection page](../showing-gifts-info-on-catalog-page.md)
+Tính năng này cũng cho phép khách hàng có thể dễ dàng nhận diện sản phẩm cần mua để có thể nhận được sản phẩm gift \(Catalog offers\). Theo mặc định tính năng này đã được bật và sẽ hoạt động trên các trang collection, nếu bạn không nhìn thấy icon hay kiểm tra lại bước cài đặt [6. Showing Gift info on Collection page](../installation-code-needs-for-your-stores-theme/showing-gifts-info-on-catalog-page.md)
 
 ### 6. Hiển thị box quà tặng dưới dạng từng sản phẩm
 
