@@ -1,31 +1,51 @@
-# How to use Gifts on Cart offer
+# How to create Offer on Cart
 
- _If you want to reward gifts when customer purchases a order that meets your conditions. You need to create Gifts on Cart rule. Example:_
+Offer on Cart means to reward your customer when their orders meet specific conditions.   
+For example: 
 
-* _Buy &gt;200 USD and &lt;=300 USD to get a pen_
-* _Buy&gt;300 USD and &lt;=400 USD to get a headphone_
-* _Buy &gt;400 USD to get a mobile phone_
+* Purchase over $200 get a pen 
 
-For start to create new Cart offer rule, please follow those steps:
+## **Here are the step-by-step instructions to create a new Offer on Cart:**
 
-![](../.gitbook/assets/new-cart-offer.gif)
+### General section
 
-**In the General section**, you will need to enter **Name**, **Start date and End Date**, **Promotion message**, and **URL of promotion banner**, **Maximum number of gifts,  Discount percentage of Gift Items, Priority** and **Stop lower priority rule**.  
-**The promotion message and promotion banner** allow shop owner to advertise and  make customer to buy more. For example, buy &gt;200 to get a pen, then Enter a message:” Please buy over 200 USD to get a free gift”. Then if customer buys smaller than 200 USD, then he goes to cart page, the message will be shown so customer can see and decide to buy more to reach the condition.  
-**Maximum number of gifts**: The total number of free gifts that customers are allowed to select. For example,you select 5 gifts in the Select Gifts section and you insert the value “2”, customers may only select maximum 2 of the 5 gifts.  
-**Discount percentage of Gift Items**: This field allows owner to set discount of gifts items. The default is 100%, It means the gift is free. However sometimes customer can create a promotion: Buy more than 1000 USD get 50% discount for the Iphone.  
-**Priority** and **Stop lower priority rule** allows to run multi Gifts on cart rules.  In the case shop owner creates multiple rules: The rules are processed by priority. If you select to set “Stop lower priority rule” to Yes, the next rules \(with lower priorities\) will not be processed. In case that all the rules do not stop further rules processing, then all the rules will be processed.
+1. **Name**: Set the Name of your offer 
+2. **Description**: Set the Description of your offer
+3. **Start Date and End Date**: Set the duration of your offer \(date, hour\) 
+4. **Promotion message**: Set the message to appear on the customers’ cart page. 
 
-  
-  
-**In the condition section**: Enter the condition of the gifts on cart rule. If customer satifies this condition, he will get gifts.
+   For example: Customers will see your “Purchase over $500 to get a free gift” message so they are motivated to reach that condition to get a free gift. 
 
-![](https://secomapp.zendesk.com/hc/en-us/article_attachments/201105585/giftoncart1.png)
+5. **Maximum number of gifts**: Set the number of gifts that customers are allowed to select when you offer them choices among several gifts. 
 
-  
-**In the Select Gifts section**: Please click the button select gifts, a popup will be open and you can select products that you will reward customers. You also select a or many collection as gifts \(Example: customer can select 1 gift in all products of collection Smart Phone\)
+   Note: When you set this field to 0, all your free gifts will be automatically added to your customers’ cart 
 
-![](https://secomapp.zendesk.com/hc/en-us/article_attachments/201041249/giftoncart2.png)
+6. **Discount percentage of Gift Items**: Set the discount percentage of your gift items. By default, the percentage is 100%, which means a free gift. 
+7. **Priority**: Set the priority in case you run multiple offers. The smaller number means the greater priority.
+8. **Stop lower priority rule**: The offers are processed by priority so if you enable this feature, lower priority won’t be processed. 
+
+### **Condition section: Set the condition of your offer** 
+
+![](../.gitbook/assets/condition-section.png)
+
+You can set up the condition of your offer based on 2 criteria: Total Cart’s value and Total Cart’s quantity. You can also narrow your offer by Products or Customers’ order history
+
+![](../.gitbook/assets/narrow-by-products.png)
+
+Narrow by Products means: Customers have to buy these products and meet the offer’s condition to receive the gifts.
+
+![](../.gitbook/assets/narrow-by-customer-order-history.png)
+
+Narrow by Customers’ order history: Only customers who meet the condition of their orders history, such as total spent, total number of orders, total spent on last order, customers’ tags, and condition of this offer will have gifts
+
+### **Select Gifts section**
 
 ![](https://secomapp.zendesk.com/hc/en-us/article_attachments/201105625/giftoncart3.png)
+
+After clicking on the “Select Gifts” button, a list of your products will appear for you to choose from.   
+****You can select collection\(s\) as gifts for customers to choose their gifts from. 
+
+Finally, click on “Save Changes” and “Apply Now” to apply the changes to your store immediately. 
+
+
 

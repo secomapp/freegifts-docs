@@ -1,66 +1,68 @@
 ---
-description: Let Free Gifts app BOOST YOUR SALES!
+description: >-
+  We offer you with various types of offers: free gifts, buy x get y, gift with
+  purchase, bogo, and many more.
 ---
 
 # About Free Gifts by Secomapp
 
-## About Secomapp:
+## About Secomapp
 
 ![](.gitbook/assets/image.png)
 
-Secomapp Team has more than 5 years’ experience in building Shopify Apps with high ranks and impressive ratings. We are attempting to become one of the best companies to provide apps for Shopify users.
+Secomapp Team has more than 8 years’ experience in building Shopify Apps with high ranks and impressive ratings. We are attempting to become one of the best companies to provide apps for Shopify users.
 
-We offer highly-skilled technical support which is responsive from 8h30-18h00, Monday to Friday \(GMT +7\). We work fast, handle requests quickly and serve you wholeheartedly.
+We offer highly-skilled technical support which is responsive from 08:30 – 18:00, Monday - Friday/GMT+7. We work fast, handle requests quickly, and serve you wholeheartedly.
 
-## Free Gifts by Secomapp:
+## Free Gifts by Secomapp
 
-**USED BY 2000+ STORES IN OVER 80 DIFFERENT COUNTRIES**
+### **USED BY 20,000+ STORES IN OVER 100 DIFFERENT COUNTRIES**
 
-A powerful tool for multiple offers to boost sales and conversion rate. Free Gifts app provides you with a set of solutions from easy to complicated offers about giving gifts, discounts, up-selling and cross-selling to customers on Shopify, seasonally or whole year round.
+A powerful tool for various types of offers to boost sales and conversion rate. Free Gifts app provides you with a set of easy to complicated offers, including gifts, discounts, up-selling, and cross-selling.
 
-Your shop will be more vibrant and lively, always on the vibe of the special holidays to take full advantage of crazy sales seasons.
+Customers will prefer surfing your site to other shops and staying there to discover all your surprising deals.
 
-Customers will prefer surfing your site and staying for a while to discover all surprising deals that you treat them compared with other shops with nothing to give.
+### **Free Gifts app covers nearly all kinds of popular discount offers**
 
-**Free Gifts app covers most of the hottest gift and discount offers.**
+#### **BOGO**
 
-**BOGO**
+Buy One Get One - A very easy but effective promotion offer: When customers buy one certain item, they will be given another kind of product as gift.
 
-Buy One – Get One: Very easy but effective promotion rule: When customers buy one certain item, they will be given another kind of product as a gift.
+#### **Offers on Specific products \(Offers on Catalog rule\)**
 
-**Offers on Certain products \(Offers on Catalog rule\)**
-
-Customers gain free gifts or any kind of discounts only when they purchase particular product\(s\). Example rules are:
+Customers gain free gifts or discount when they purchase specific product\(s\) 
 
 * Buy X get Y free
 * Buy X get 40% off of Y
-* Buy X get many free gifts \( Y,Z...free\)
-* Buy any product from a category A get gift\(s\)
-* Buy any product from a vendor A get gift\(s\)
-* And Many More...
+* Buy X get X, Y. Z
+* Buy product from a Category/Vendor/Collection to get gift
+* And many more...
 
-**Offers on cart \(Offers on Cart rule\)**
+#### **Offers on Customers' cart \(Offers on Cart rule\)**
 
-Customers receive gifts or any kind of discounts based on their shopping cart. Conditions can be total product quantity, total order value, etc.
+Customers receive gifts or discounts based on their cart. Conditions can be product quantity, order value, etc.
 
-* Purchase over 500 USD get X free
-* Purchase over 500 USD get 40% off of X
-* Purchase over 500 USD get many free gifts \(X, Y... free\)
+* Purchase over $500 get X
+* Purchase over $500 get 40% off of X
+* Purchase over $500 USD get X, Y, Z
 * Purchase 3 items get X free
 * Purchase 3 items get 40% off of X
-* Purchase 3 items get many free gifts \(X, Y... free\)
-* Purchase 3 items get one gift \(or multi gifts\) in a category A
-* And Many More...
+* Purchase 3 items get X, Y, Z
+* Purchase 3 items get one gift \(or multi gifts\) in a collection A
+* And many more...
 
-**Multi offers on cart rule**
+#### **Multiple offers**
 
-You can create multi rules \(multi offers\). For Example: Purchase from 500 USD to 1000 USD to get a pen for free and purchase from 1000 USD to 2000 USD to get a free book.
+You can create multiple offers on cart rules. For example: Purchase $500 get a free pen and Purchase $1000 get a free book. 
 
-**Upsell and cross-sell**
+#### **Upsell and cross-sell**
 
-You have a chance to draw customer's attention to other products on your store. Customers who are buying one product are likely to be persuaded to get other products which are complementary or even of higher value if those ones are displayed as free or discounted items.
+By using the Free Gifts app, you are able to draw customers’ attention to other products in your store. Customers will be persuaded to buy more than one product because of gifts and discount promotions. 
 
-**Motivate customers by Promotion Message and Banner**
+**Motivated customers by Promotion Message** 
 
-Promotion Message and Banner is displayed on cart page. It allows shop owners to advertise and help customers know exactly how close they are to receive a promotion! This is like a smart strategy to urge them to buy more or it is called Upselling but it doesn’t make customers feel annoyed.
+Promotion Message is displayed on the cart page to show the customer what they need to receive the promotion.   
+This is a smart strategy to urge customers to buy more products from your store. 
+
+#### 
 
