@@ -17,7 +17,7 @@
 * [How to create Offer on Catalog](how-to-use-gifts-on-catalog-offer/README.md)
   * [Disable multiple gift feature for Catalog offer](how-to-use-gifts-on-catalog-offer/disable-multiple-gift-feature-for-catalog-offer.md)
   * [Gift item should be the same product customer should buy](how-to-use-gifts-on-catalog-offer/gift-item-should-be-the-same-product-customer-should-buy.md)
-  * [The bundle promotion feature](how-to-use-gifts-on-catalog-offer/the-bundle-promotion-feature.md)
+  * [The "Bundle products" feature](how-to-use-gifts-on-catalog-offer/the-bundle-promotion-feature.md)
 * [Exporting report for your Promotion campaign](exporting-report-for-your-promotion-campaign.md)
 * [Advance features](advance-features/README.md)
   * [Features in Setting page](advance-features/setting-page.md)

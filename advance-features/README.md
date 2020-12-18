@@ -1,6 +1,8 @@
 # Advance features
 
-In this section, we'll introduce you to all the advanced features that will help you customize your promotion campaigns according to your needs. Please send us an email if you have any questions when creating new offers and feature requests if the product has not yet fulfilled your requirements.
+In this section, all the advanced features of the Free Gifts app are introduced. Those features will help you customize your promotion campaign to fit your needs. 
+
+If you have any further questions on creating new offers for your campaign, send us an email to support@secomapp.com and we will support you quickly. 
 
 {% page-ref page="setting-page.md" %}
 

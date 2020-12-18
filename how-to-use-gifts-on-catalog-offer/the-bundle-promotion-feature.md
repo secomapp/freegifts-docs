@@ -1,6 +1,6 @@
-# The bundle promotion feature
+# The "Bundle products" feature
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/bundle-productss.png)
 
-Tính năng này cho phép bạn giới hạn một list toàn bộ sản phẩm khách hàng bắt buộc phải mua cùng một lúc thì mới được nhận quà tặng. Chung tôi cũng cung cấp tuỳ chọn cho phép bạn kiểm tra danh sách sản phẩm khách hàng mua phải hoàn toàn chính xác theo variantID của sản phẩm hay mặc định chỉ theo  productID của sản phẩm mà thôi.
+When the “Bundle products” feature is enabled, your customers have to buy a specific list of products to have gifts. You are able to verify this list by variant ID or product ID \(default\). 
 

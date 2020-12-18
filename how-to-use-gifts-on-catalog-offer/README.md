@@ -26,16 +26,20 @@ For example:
 7. Priority: Set the priority in case you run multiple offers. The smaller number means the greater priority.
 8. Stop lower priority rule: The offers are processed by priority so if you enable this feature, lower priority won’t be processed. 
 
-**In the Select Products section:** Select the products that customer buy he will get gifts. You can select specific products or you can select a collection, vendor or type \(Example If you select collection: T-Shirt, then it means if customer buy any product in the T-Shirt collection, he also will get a gift\)  
-****
+### **Select Products Section** 
 
 ![](https://secomapp.zendesk.com/hc/en-us/article_attachments/201105415/giftoncat2.png)
 
-**In the Select Gifts section:** Please click the button select gifts, a popup will be open and you can select products that you will reward customers.
+This section allows you to select the products that customers need to buy to get gifts  
+You can select specific products or collection, vendor, or types \(If you select a collection, it means that purchases any product from that collection will get gift\) 
+
+### **Select Gifts Section**
 
 ![](https://secomapp.zendesk.com/hc/en-us/article_attachments/201041169/giftoncat3.png)
 
-After that, click on the Create button, then Apply your changes to live store.
+Click on the “Select Gifts” button, then a pop up will appear for you to choose products as gifts for your customer.   
+After that, click on the “Create” button then “Apply Now” to make immediate changes to your live store.   
+
 
 ![](../.gitbook/assets/new-catalog-offer.gif)
 

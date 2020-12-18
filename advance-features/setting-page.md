@@ -4,19 +4,21 @@
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-Enable this feature if you want our application working seamlessly with Oberlo or other Inventory Management application. The cloned variants will not be used, we using Shopify's Draft-order API for applying promotion to customers. The limited of this feature is the low rate 2 orders/second, please contact us if you need more.
+Basically, our Free Gifts works by cloning a variant from the original product to be the gift then send it to your customer. When this feature is enabled, the app will use Shopify’s Draft-order API instead of cloning variant. After that, the app will be able to work properly with Oberlo or other Inventory Management apps. 
+
+However, this feature’s limit is that only 2 orders are supported per second \(Please contact us at support@secomapp.com if you need more\) 
 
 ### 2. Synchronize products
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-All gift items cloned by our application will not be track inventory by default. If you need to synchronize inventory between the clone gift item and the orginal variant, please enable this feature then select the way of our application action with iventory of orignal product.
+All cloned variants won’t be tracked inventory. You can enable this feature to track the inventory of the gifts items by 3 options: 
 
-* Stop the offfer and Notify customer when the gift is out of stock
-* Do not track inventory: Just decrease inventory of origianl product whenever orders have any cloned gift variants.
-* Store owner will manually input cloned gift variant inventory: After created an offers, please go to each cloned gift item then input inventory for them.
+* **Do not track inventory**: Decrease the inventory of original products once customer receives gifts
+* **Stop the offer and Notify customers when the gift is out of stock**: This option will synchronize the inventory of gift variant with original products then Stop the offer & Notify customers when the gift is out of stock
+* **Store owner will manually input clone gift variant inventory**: After creating an offer, please go to each cloned gift items on Products page to input inventory for them
 
-### 3. What is the original price of Gift item is used for comparing
+### 3. Gift item’s price condition & Gift’s price discount based
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 

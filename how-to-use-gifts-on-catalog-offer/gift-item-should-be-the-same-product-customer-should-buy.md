@@ -2,9 +2,11 @@
 
 ![](../.gitbook/assets/image%20%2818%29.png)
 
-Bạn có thể sử dụng tính năng này trong trường hợp muốn giới hạn sản phẩm gift phải hoàn toàn giống với sản phẩm mà khách hàng đã thêm vào giỏ hàng.
+This feature is used when you want the gifts to be exactly the same as the products they add to their cart. 
 
 {% hint style="info" %}
-Lưu ý là khi bạn sử dụng tính năng này, bạn sẽ cần phải lựa chọn danh sách sản phẩm khách hàng phải mua để được gift cũng như danh sách các sản phẩm gift phải giống nhau. Nếu không sẽ dần đến tình trạng khách hàng mua đủ số lượng và sản phẩm thoả mãn nhưng lại không có gift nào được hiển thị ra.
+Note: When this feature is turned on, you have to select the list of the products customer should buy and the list of the gifts to be the same. Or else, when customers meet the condition, the offer won’t appear. 
 {% endhint %}
+
+
 

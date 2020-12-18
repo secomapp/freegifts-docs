@@ -1,10 +1,10 @@
 # Exporting report for your Promotion campaign
 
-![Report page give you an overview how your promotions working](.gitbook/assets/image%20%2834%29.png)
+![Report page gives you an overview about how your promotions are working. ](.gitbook/assets/image%20%2834%29.png)
 
-Để tạo được các biểu đồ cũng như bảng thống kê các order có các gift item. Trước tiên bạn cần Sync dữ liệu order về hệ thống của chúng tôi. Số lượng orders mới kể từ thời điểm hiện tại và thời điểm cuối cùng bạn sync dữ liệu trước đây sẽ xuất hiện ngay trên nút "**Sync Orders**".
+In order to create a statistical chart and table of orders with gift items, the order data must be synced with our Free Gifts app. Clicking on the “Sync Orders” button to sync the Order Data. 
 
 ![](.gitbook/assets/image%20%2824%29.png)
 
-Sau khi quá trình sync dữ liệu được hoàn tất, bạn sẽ xuất dữ liệu tổng hợp các order thành công với sản phẩm gift đi kèm. Bạn cũng có thể xuất dữ liệu ra dạng biểu đồ theo: ngày, tháng, năm để có hình ảnh trực quan hơn khi so sánh độ hiệu quả của các chiến dịch trong từng giai đoạn.
+After the sync process is completed, you can export the data of the completed orders with gifts. You can also sort and export the data by date, month, or year for comparison between different campaigns. 
 
