@@ -13,8 +13,8 @@
 
 * [How to create Offer on Cart](how-to-use-gifts-on-cart-offer/README.md)
   * [How to reward customer a gift if he Buy 2 items of the same product? \(Buy 2X get Y offer\)](how-to-use-gifts-on-cart-offer/how-to-reward-customer-a-gift-if-he-buy-2-items-of-the-same-product.md)
-  * [What is "Use gift\(s\) in condition of other gift on Cart offer"?](how-to-use-gifts-on-cart-offer/what-is-use-gift-s-in-condition-of-other-gift-on-cart-offer.md)
-* [How to use Gifts On Catalog offer](how-to-use-gifts-on-catalog-offer/README.md)
+  * [What is the "Use gift\(s\) in condition of other gift on Cart offer" feature?](how-to-use-gifts-on-cart-offer/what-is-use-gift-s-in-condition-of-other-gift-on-cart-offer.md)
+* [How to create Offer on Catalog](how-to-use-gifts-on-catalog-offer/README.md)
   * [Disable multiple gift feature for Catalog offer](how-to-use-gifts-on-catalog-offer/disable-multiple-gift-feature-for-catalog-offer.md)
   * [Gift item should be the same product customer should buy](how-to-use-gifts-on-catalog-offer/gift-item-should-be-the-same-product-customer-should-buy.md)
   * [The bundle promotion feature](how-to-use-gifts-on-catalog-offer/the-bundle-promotion-feature.md)
