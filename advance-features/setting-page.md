@@ -40,53 +40,56 @@ If the gift of your offer is not free, the price of cloned item is calculated ba
 
 This feature will show a Free Gift icon on the right corner of the products that customers need to buy to receive gifts. By default, this feature is turned on and the Free Gift icons appear on collection pages.  
 
-### 6. Hiển thị box quà tặng dưới dạng từng sản phẩm
+### 6. Show Gift items by Product only
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-Theo mặc định, các sản phẩm gift sẽ được hiển thị theo variant, khách hàng chỉ cần 1-click để lựa chọn quà tặng mình mong muốn. Tuy nhiên, khi bạn có một danh sách các quà tặng quá dài, bạn có thể sẽ cần đến cách hiển thị hộp quà tặng đó theo từng sản phẩm một. Khách hàng cần lựa chọn các options của sản phẩm đó trước khi thêm vào giỏ hàng. Hãy xem ví dụ minh hoạ dưới đây:
+By default, the gifts will appear as variants. For example, when you select a shirt with the variants as sizes to be the gift. All the variants will appear as size S, size M, etc for the customer to choose from. 
+
+After enabling this feature, the gifts will appear as products only, which means a shirt with variants size will appear as only a shirt, with a box for the customer to choose his/her size. 
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-### 7. Show properties need to fill of gift product
-
-![](../.gitbook/assets/image%20%2823%29.png)
-
-Trong một vài trường hợp, các sản phẩm gift cần được nhập các thông tin bổ xung trước khi được thêm vào giỏ hàng, để làm được điều này bạn sẽ cần cấu hình template cho các field cần thêm cũng như lựa chọn sản phẩm gift nào sẽ hiển thị các mục nhập đó. Để thực hiện quá trình này, bạn có thể tìm hiểu thêm [tại đây](how-to-let-customer-input-property-fields-before-adding-gift-to-cart..md).
-
-### 8. Showing more advance feature while creating offers
+### 7. Manual select products and Ignore selected products
 
 ![](../.gitbook/assets/image%20%2820%29.png)
 
-* _**Manual select products:**_ For the Catalog offers, sometime you need select products customers should buy by SKU, product's name, variant's name or even input product/variant's ID manually. In this case, you can enable this feature then the in Catalog offer rule UI will appear new box for you doing those tasks:
+These two features will show more advanced features while creating offers
+
+#### 7.1. Manual select products:
+
+This feature enables you to select the products the customer should buy to get gifts \(Offer on Catalog\) by SKU/Title \(product’s name\)/ Variant’s name. Or even select by inputting product/variant’s ID manually. After enabling this feature, a new box inside Offer on Catalog will appear: 
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
-* _**Ignore selected products**_**:** Đối với store có rất nhiều sản phẩm, đôi khi việc giới hạn một số sản phẩm dù khách hàng có mua cũng không được tính để hưởng quà tặng là rất khó khăn. Tính năng này sẽ giúp bạn chỉ việc lựa chọn danh sách một vài sản phẩm muốn loại trừ thay vì phải lựa chọn hàng trăm/nghìn sản phẩm khác nhau.
+#### 7.2. Ignore selected products
 
-### 9. Tắt bật một số thông tin về sản phẩm gift
+After enabling this feature, you will select the products that customer buy but not get the gifts instead of the products customers buy to get gift. 
 
-![](../.gitbook/assets/image%20%2839%29.png)
+For example, when you have a large number of products that customers buy will get gift. Instead of selecting large number of products, you can turn this feature on to select only the products that do not include the gifts. Then all the other products will be the products customers buy to get gifts. 
 
-Mặc định các tính năng này được bật, tuy nhiên tuỳ theo nhu cầu sử dụng, bạn cũng có thể ẩn các mục này đi nếu cần thiết.
+### 8. Product page, Free Gift popup, and Promotional message
 
-### 10. Auto add gifts to cart
+These are the information of the gift products  
+By default, all of them are turned on. You can turn it off based on your need. 
+
+### 9. Auto add gifts to cart
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-Thông thường ứng dụng của chúng tôi sẽ tự động thêm sản phẩm quà tặng mà khách hàng đã thoả mãn các yêu cầu của offers vào giỏ hàng. Tuy nhiên có một vài trường hợp như sản phẩm quà tặng cần nhập thêm các thuộc tính, các offers sử dụng tính năng priority và có trùng lặp nhau về sản phẩm quà tặng... Bạn có thể tắt tính năng này đi trong trang Setting của ứng dụng.
+Normally, our app will automatically add gifts to customers’ cart if they meet all the conditions of the offer. However, you can turn it off in the Settings 
 
-### 11. One time pick
+### 10. One time pick
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-Tính năng này cho phép bạn giới hạn khách hàng chỉ được phép chọn 1 variant trong 1 sản phẩm quà tặng. Khi khách hàng đã chọn quà tặng đó, nếu offer khác cũng thoả mãn và cũng có cùng 1 quà tặng đó thì hộp quà tặng sẽ không hiển thị để khách hàng có thể lựa chọn được thêm một lần nữa.
+This feature will limit customer to choose 1 variant for only 1 time. If they meet the conditions of other offers that have the same gifts, they cannot select it anymore. 11. Exclude added product
 
-### 12. Exclude added product
+### 11. Exclude added product
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
-Tính năng này cho phép bạn có thể ẩn các sản phẩm gift trùng lặp với các sản phẩm gốc mà khách hàng đã thêm vào giỏ hàng.
+This feature will hide the gift product if customer has the same product with it in their cart. 
 
 ### 13. Stop lower priority rule effective
 
