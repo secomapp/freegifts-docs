@@ -2,13 +2,16 @@
 
 ![](../.gitbook/assets/image%20%2835%29.png)
 
-Đôi khi bạn sẽ cần chạy các chiến dịch promotion trên nhiều kênh khác nhau: email, fb, instagram... Những promotion offer này có thể không hiển thị trên shop và chỉ dành riêng cho một nhóm đối tượng bạn muốn. Để thực hiện điều này bạn có thể sử dụng tính năng "Populating Promotion Codes via a URL" cung cấp trong mỗi offer bạn tạo ra.
+This feature helps you to create a URL of the offer that only customers who get the link will receive the offer. Insert the appropriate code for your customer, for example: BLACK-FRIDAY-EMAIL
 
-Hãy nhập bất kì một đoạn promotion code mà bạn muốn cho từng nhóm đối tượng khách hàng của bạn, ví dụ: **CHILDREN-DAY-EMAIL**
+Then our app will generate for you a URL as: https://\[your\_store\_domain.com\]?freegifts\_code=BLACK-FRIDAY-EMAIL
 
-Sau đó, chúng tôi sẽ tạo ra cho bạn một liên kết để bạn có thể gửi tới cho nhóm khách hàng đó \(cú pháp của URL có dạng\): https://\[**your\_store\_domain.com**\]?freegifts\_code=**CHILDREN-DAY-EMAIL**
+Tips:   
+\#1. You can use this feature together with Shorten URL tool as goo.gl, tinyurl.com, etc before sending it to your customers.   
+\#2. You can also use this feature to test your offer without affecting your live store.   
+For example, insert TEST in that field, then you can use the link: https://\[your\_store\_domain.com\]?freegifts\_code=TEST to test your offer without affecting your live store. 
 
-Bạn cũng có thể dùng kết hợp với một vài công miễn phí hỗ trợ rút ngắn độ dài URL như: goo.gl, tinyurl.com... before sending it to your customers.
+
 
 
 

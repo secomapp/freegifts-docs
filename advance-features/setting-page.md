@@ -70,6 +70,8 @@ For example, when you have a large number of products that customers buy will ge
 
 ### 8. Product page, Free Gift popup, and Promotional message
 
+![](../.gitbook/assets/product-page.png)
+
 These are the information of the gift products  
 By default, all of them are turned on. You can turn it off based on your need. 
 
@@ -91,35 +93,37 @@ This feature will limit customer to choose 1 variant for only 1 time. If they me
 
 This feature will hide the gift product if customer has the same product with it in their cart. 
 
-### 13. Stop lower priority rule effective
+### 12. Stop lower priority rule effective
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
-Bình thường thì tính năng "stop lower priority rule" \(dừng kiểm tra các offer có giá trị ưu tiên thấp hơn nếu offer hiện tại đã thoả mãn\) chỉ có tác dụng hoạt động riêng biệt trong mục Category offer hoặc Cart offer. Khi bật tính năng này lên thì giá trị priorty sẽ được so sánh mà không quan tâm loại offer đó là gì.
+Normally, the “stop lower priority rule” inside offer is effective only inside Offer on Cart or Offer on Catalog. When you turn on this feature in the Settings, all priority will be processed regardless of the type of offer as Offer on Cart or Offer on Catalog. 
 
-### 14. Formating the SKU/Barcode name of gift items
+### 13. Gift variant’s SKU/Barcode format
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
-Thông thường sản phẩm gift sẽ có thông tin SKU/barcode giống hệt với sản phẩm gốc, tuy nhiên nếu bạn sử dụng một số hệ thống quản lý inventory cũng như fullfilment bên thứ 3. Các ứng dụng đó có thể không cho phép bạn đặt các variant có cùng giá trị SKU/barcode. Trong trường hợp này chúng ta sẽ cần phải đổi lại cách đặt tên cho các sản phẩm gift đó: _**\[original's SKU/Barcode\]\_\(xx%off\)**_ hoặc thậm trí là bỏ trống.
+Normally, the gift variants cloned by our app will have the same SKU/Barcode as the original products’. If you are using inventory management system or 3rd party fulfillment, those apps won’t allow you to have the variants with exactly the same SKU/Barcode. In this case, we have to change the way to name those variants as “is blank” or “with suffix: \[original's SKU/Barcode\]\_\(xx%off\)” 
 
-### 15. Remove duplicated variants
+### 14. Remove duplicated variants
 
 ![](../.gitbook/assets/image%20%2837%29.png)
 
-Sau khi chiến dịch promotion của bạn hoàn tất, nếu bạn không xoá các offer đi thì theo mặc định các cloned gift vẫn tồn tại bên trong các sản phẩm gốc \(mà bạn đã lựa chọn làm gift\). Việc này có thể xuất hiện một số rủi ro bị hack các sản phẩm gift nếu khách hàng của bạn là một người rất am hiểu về Shopify API. Sau khi bật tính năng này lên, bạn có thể xoá toàn bộ các cloned gift bằng cách de-active các offer của bạn cũng như giữ lại thông tin các offers đó để dễ dàng sử dụng lại cho các chiến dịch promotion sau.
+By enabling this feature, you can delete all cloned variants by deactivating the offers. This feature also ensures that the customer with depth knowledge about Shopify API won’t be able to purchase your variants for $0. 
 
-### 16.  Thay đổi lại nội dung text hiển thị của ứng dụng
+### 15.  Customize the content of the text
 
 ![](../.gitbook/assets/image%20%2838%29.png)
 
-Các mục này giúp bạn có thể thay đổi nội dung text hiển thị tới khách hàng sao cho phù hợp với ngữ cảnh bạn mong muốn.
+You can change the content of those texts to be suitable for your customer. 
 
-### 17. Thay đổi freegift icon, kích thước hiển thị icon và ảnh của gifts slider box
+### 16. Advanced options
+
+In this section, you can customize Free Gift image, Gift thumbnail size, and Gift list Slider setting. 
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-Phần này cho phép bạn có thể tự tải lên hình ảnh icon hiển thị theo ý muốn, cấu hình lại kích thước ảnh cũng như chủ động cấu hình toàn bộ thuộc tính liên quan tới quá trình hiển thị gift slider box. Các tuỳ chọn đó bạn có thể tham khảo thêm về thư viện Owl-Carousel [tại đây](http://www.landmarkmlp.com/js-plugin/owl.carousel/).
+You can upload your own image to be the gift icon, change the Gift thumbnail size, and customize the Gift list Slide. You can refer more from OWL-Carousel [here](http://www.landmarkmlp.com/js-plugin/owl.carousel/)
 
 
 
