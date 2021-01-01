@@ -22,11 +22,19 @@ All cloned variants won’t be tracked inventory. You can enable this feature to
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
-For the _**Gift item's price condition**_ we have 2 options for comparing the minimun price of products \(not gift item\) customer added with the original product's price of gift item. e.g: The minimum of all products added is **$47**. The prices of original product \(used for cloning gift item\) are: _compare\_at\_price_ \(**$50**\) and current _price_ \(**$45**\)
+#### 3.1. Gift item’s price should be less or equal to the product’s price customer added 
 
-* If none of those options is enabled so the gift will be added if offer rule satisfied.
-* If you enabled "_Gift item's price should be less or equal to the product's price customer added_" only then the gift item will not be added because original's price of gift item is **$50**
-* If you enabled both "_Gift item's price should be less or equal to the product's price customer added_" and "_Use current price of the selected product as the gift for checking above condition \(default using compare\_at\_price value\)_" so the gift will be added because of the original's price of gift item used to compare is **$45**
+When this feature is enabled, only gift item, which has a lower price than the products in cart, will be automatically added to the customers’ cart. 
+
+#### 3.2. Use current price of the selected product as the gift for checking above condition \(default using compart\_at\_price value\) 
+
+By default, our app use the above feature \(3.1\) by comparing the compare\_at\_price value of the product. By enabling this feature, it will compare the original price of the product instead. 
+
+#### 3.3. Calculate gift’s price base on the current price of the original product \(default base on compare\_at\_price value\) 
+
+![](../.gitbook/assets/discount-percentage-of-gift-item.png)
+
+Normally, we calculate the discount percentage of gift item base on the compare\_at\_price value. By enabling this feature, the discount percentage of gift items will be calculated based on the original price.
 
 ### 4. How the price of Gift item is calculated
 

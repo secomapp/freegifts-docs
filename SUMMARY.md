@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About Free Gifts by Secomapp](README.md)
+* [Liquid code installation is critically necessary!!!](liquid-code-installation-is-critically-necessary.md)
 
 ## Before you get started
 
