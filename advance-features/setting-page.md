@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-Basically, our Free Gifts works by cloning a variant from the original product to be the gift then send it to your customer. When this feature is enabled, the app will use Shopify’s Draft-order API instead of cloning variant. After that, the app will be able to work properly with Oberlo or other Inventory Management apps. 
+Basically, our Free Gifts works by cloning a variant from the original product to be the gift then sending it to your customer. When this feature is enabled, the app will use Shopify’s Draft-order API instead of cloning variant. After that, the app will be able to work properly with Oberlo or other Inventory Management apps. 
 
 However, this feature’s limit is that only 2 orders are supported per second \(Please contact us at support@secomapp.com if you need more\) 
 
@@ -24,21 +24,21 @@ All cloned variants won’t be tracked inventory. You can enable this feature to
 
 #### 3.1. Gift item’s price should be less or equal to the product’s price customer added 
 
-When this feature is enabled, only gift item, which has a lower price than the products in cart, will be automatically added to the customers’ cart. 
+When this feature is enabled, only gift items with lower price than the products in customers' cart, will be automatically added. 
 
 #### 3.2. Use current price of the selected product as the gift for checking above condition \(default using compart\_at\_price value\) 
 
-By default, our app use the above feature \(3.1\) by comparing the compare\_at\_price value of the product. By enabling this feature, it will compare the original price of the product instead. 
+By default, our app uses the above feature \(3.1\) by comparing the compare\_at\_price value of the product. By enabling this feature, it will compare the original price of the product instead. 
 
 #### 3.3. Calculate gift’s price base on the current price of the original product \(default base on compare\_at\_price value\) 
 
 ![](../.gitbook/assets/discount-percentage-of-gift-item.png)
 
-Normally, we calculate the discount percentage of gift item base on the compare\_at\_price value. By enabling this feature, the discount percentage of gift items will be calculated based on the original price.
+Normally, we calculate the discount percentage of gift item based on the compare\_at\_price value. By enabling this feature, the discount percentage of gift items will be calculated based on the original price.
 
 ### 4. How the price of Gift item is calculated
 
-If the gift of your offer is not free, the price of cloned item is calculated based on the discount value \(which you insert in the Discount percentage of Gift Items\) and the compare\_at\_price of original product. After this feature enabled, the price of the cloned items is calculated base on the price of original products. 
+If the gift of your offer is not free, the price of cloned item is calculated based on the discount value \(which you insert in the Discount percentage of Gift Items\) and the compare\_at\_price of original product. After this feature is enabled, the price of the cloned items is calculated based on the price of original products. 
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
@@ -54,7 +54,7 @@ This feature will show a Free Gift icon on the right corner of the products that
 
 By default, the gifts will appear as variants. For example, when you select a shirt with the variants as sizes to be the gift. All the variants will appear as size S, size M, etc for the customer to choose from. 
 
-After enabling this feature, the gifts will appear as products only, which means a shirt with variants size will appear as only a shirt, with a box for the customer to choose his/her size. 
+After enabling this feature, the gifts will appear as products only, which means a shirt with different size variants will appear as only a shirt, with a box for the customer to choose his/her size. 
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
@@ -72,7 +72,7 @@ This feature enables you to select the products the customer should buy to get g
 
 #### 7.2. Ignore selected products
 
-After enabling this feature, you will select the products that customer buy but not get the gifts instead of the products customers buy to get gift. 
+After enabling this feature, you will select the products that customers buy but not get the gifts instead of the products customers buy to get gifts. 
 
 For example, when you have a large number of products that customers buy will get gift. Instead of selecting large number of products, you can turn this feature on to select only the products that do not include the gifts. Then all the other products will be the products customers buy to get gifts. 
 
@@ -117,7 +117,7 @@ Normally, the gift variants cloned by our app will have the same SKU/Barcode as 
 
 ![](../.gitbook/assets/image%20%2837%29.png)
 
-By enabling this feature, you can delete all cloned variants by deactivating the offers. This feature also ensures that the customer with depth knowledge about Shopify API won’t be able to purchase your variants for $0. 
+By enabling this feature, you can delete all cloned variants by deactivating the offers. This feature also ensures that the customer with in-depth knowledge about Shopify API won’t be able to purchase your variants for $0. 
 
 ### 15.  Customize the content of the text
 

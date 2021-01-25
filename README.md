@@ -26,7 +26,7 @@ Customers will prefer surfing your site to other shops and staying there to disc
 
 #### **BOGO**
 
-Buy One Get One - A very easy but effective promotion offer: When customers buy one certain item, they will be given another kind of product as gift.
+Buy One Get One - A very easy but effective promotion offer: When customers buy one certain item, they will be given another kind of product as a gift.
 
 #### **Offers on Specific products \(Offers on Catalog rule\)**
 

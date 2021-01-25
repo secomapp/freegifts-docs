@@ -29,6 +29,9 @@
 ## FAQs
 
 * [How To Show Promotion info slider?](faqs/how-to-show-banner-promotion.md)
+* [Why I cannot select a product as gift?](faqs/why-i-cannot-select-a-product-as-gift.md)
+* [How to create Goal Offer?](faqs/how-to-create-goal-offer.md)
+* [How to create Buy X get Y Offer?](faqs/how-to-create-buy-x-get-y-offer.md)
 
 ## Installation codes required for your store's theme <a id="installation-code-needs-for-your-stores-theme"></a>
 
