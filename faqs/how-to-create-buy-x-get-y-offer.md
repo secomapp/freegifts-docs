@@ -8,7 +8,7 @@ Buy X get Y offers customers a discount or gift if they buy certain products.
 
 Follow these steps to create your Buy X get Y offer in your Shopify Store. 
 
-{% embed url="https://drive.google.com/file/d/1D\_rObqsGzm\_agIRvPvcNhVzrRABUWBwI/view?usp=sharing" %}
+{% embed url="https://youtu.be/TBwzj2YJZeM" %}
 
 ### STEP 1: CREATE A NEW OFFER 
 

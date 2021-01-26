@@ -8,9 +8,7 @@ The Goal offer rewards customers with gifts or a discount on specific products w
 
 Follow these steps to create your Volume Discount in your Shopify Store. 
 
-{% embed url="https://drive.google.com/file/d/1NHqQ33VGaoThGshQy-82mkL3dvbcfW\_0/view?usp=sharing" %}
-
-
+{% embed url="https://youtu.be/y8IPfsScpCk" %}
 
 ### STEP 1: CREATE A NEW OFFER
 
